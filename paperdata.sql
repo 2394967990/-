@@ -1,2 +1,0 @@
-ALTER TABLE student
-DROP COLUMN pid;
